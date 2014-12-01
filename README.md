@@ -3,7 +3,7 @@ PairingExchange
 
 Austin Pair Programming Meetup Project to build a PairingExchange for MEAN programmers to locate a pair programmer and setup a pairing appointment.
 
-## Required Competencies, Learning Resources, and Pairing Candidates with appropriate Skills
+## Required and Actual Competencies, Learning Resources, and Learning paths of Pairing Candidates.
 
 ## Practice Problems like nodeschool.io for pairing teams to learn from particular problems needing solutions
 
@@ -30,3 +30,5 @@ See AgileLearner.com's usage of D3.js for this purpose.
 
 http://giampaolotrapasso.github.io/agilelearnermaps/
 http://giampaolotrapasso.github.io/agilelearnermaps/javascript.html
+
+## Testable Hypothesis:  The quality of the PairingExchange matches is the richness of the competency maps, the resource maps, and the convergence of the identified learning paths of the participants.
