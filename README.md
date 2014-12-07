@@ -1,5 +1,6 @@
 PairingExchange
 ===============
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/atx-pair-programming/pairingexchange?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Austin Pair Programming Meetup Project to build a PairingExchange for MEAN programmers to locate a pair programmer and setup a pairing appointment.
 
